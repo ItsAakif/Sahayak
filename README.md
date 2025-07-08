@@ -11,7 +11,7 @@
 [![Google Gemini](https://img.shields.io/badge/Google%20Gemini-AI%20Powered-4285F4.svg)](https://ai.google.dev/)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
-[🚀 Live Demo](https://sahayak-app.web.app) • [📖 Documentation](#features) • [🤝 Contributing](#contributing)
+[🚀 Live Demo](https://sahayak-0.web.app/) • [📖 Documentation](#features) • [🤝 Contributing](#contributing)
 
 </div>
 
